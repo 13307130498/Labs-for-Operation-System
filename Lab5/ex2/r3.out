@@ -1,0 +1,12 @@
+Integer size is 4 bytes. Should be 4 bytes (32-bit).
+File Name: Size = 4000 bytes
+0 1 2 3 4 5 6 7 8 9 
+10 
+3644
+911 
+3988
+997 998 999 
+3960
+990 
+not allowed
+not allowed
